@@ -12,9 +12,7 @@
 <br/>
 <br/>
 
-<summary align="center">
-    <h5>You may know me from some of my projects shown below!</h5>
-</summary>
+<h5 align="center">You may know me from some of my projects shown below!</h5>
 
 <div align="center">
 
